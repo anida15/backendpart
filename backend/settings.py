@@ -93,11 +93,11 @@ WSGI_APPLICATION = 'backend.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
-        'NAME': 'myhostel',
-        'USER': 'anida',
-        'PASSWORD': 'password',
-        'HOST': 'localhost',
-        'PORT': '',
+        'NAME': 'd5ok9tt50ivj2',
+        'USER': 'tpvxwwbsjrkizu',
+        'PASSWORD': 'abf27573838a7cc6857ce9db7b728f5ee2c211d486b8afd3c1a282bae7907163',
+        'HOST': 'ec2-3-222-204-187.compute-1.amazonaws.com',
+        'PORT': '5432',
     }
 }
 
